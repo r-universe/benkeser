@@ -1,5 +1,13 @@
 [
   {
+    "package": "drord",
+    "oncran": true
+  },
+  {
+    "package": "drtmle",
+    "oncran": true
+  },
+  {
     "package": "survtmle",
     "oncran": true
   }
