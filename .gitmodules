@@ -13,8 +13,3 @@
 	url = https://github.com/benkeser/drtmle
 	shallow = true
 	registered = true
-[submodule "survtmle"]
-	path = survtmle
-	url = https://github.com/benkeser/survtmle
-	shallow = true
-	registered = true
