@@ -6,5 +6,8 @@
   {
     "package": "drtmle",
     "oncran": true
+  },
+  {
+    "package": "survtmle"
   }
 ]
