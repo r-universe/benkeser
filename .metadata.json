@@ -8,6 +8,10 @@
     "oncran": true
   },
   {
+    "package": "nlpred",
+    "oncran": true
+  },
+  {
     "package": "survtmle"
   }
 ]
