@@ -4,10 +4,10 @@
     "oncran": true
   },
   {
-    "package": "drtmle",
-    "oncran": true
+    "package": "survtmle"
   },
   {
-    "package": "survtmle"
+    "package": "drtmle",
+    "oncran": true
   }
 ]

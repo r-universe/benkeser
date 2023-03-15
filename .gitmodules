@@ -8,13 +8,13 @@
 	url = https://github.com/benkeser/drord
 	shallow = true
 	registered = true
-[submodule "drtmle"]
-	path = drtmle
-	url = https://github.com/benkeser/drtmle
-	shallow = true
-	registered = true
 [submodule "survtmle"]
 	path = survtmle
 	url = https://github.com/benkeser/survtmle
+	shallow = true
+	registered = true
+[submodule "drtmle"]
+	path = drtmle
+	url = https://github.com/benkeser/drtmle
 	shallow = true
 	registered = true
