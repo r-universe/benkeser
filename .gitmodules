@@ -18,8 +18,3 @@
 	url = https://github.com/benkeser/nlpred
 	shallow = true
 	registered = true
-[submodule "survtmle"]
-	path = survtmle
-	url = https://github.com/benkeser/survtmle
-	shallow = true
-	registered = true
