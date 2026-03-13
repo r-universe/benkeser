@@ -8,6 +8,3 @@
 [submodule "drtmle"]
 	path = drtmle
 	url = https://github.com/benkeser/drtmle
-[submodule "nlpred"]
-	path = nlpred
-	url = https://github.com/benkeser/nlpred
